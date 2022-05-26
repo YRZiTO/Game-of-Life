@@ -10,12 +10,15 @@
 4. A **dead** cell with **three** live neighbours **becomes alive again**.
 
 # Snapshots of the Game:
-![](https://i.imgur.com/dFNwUem.png) 
 
-![](https://i.imgur.com/ja7lIeE.png) 
-
-![](https://i.imgur.com/31WaDNS.gif)
-
-**The saved image from the game**
-
-![](https://i.imgur.com/VeRDsCg.png)
+<p align="center">
+	<img src="https://i.imgur.com/dFNwUem.png" />  
+	<br></br>
+	<img src="https://i.imgur.com/ja7lIeE.png" />
+	<br></br>
+	<img src="https://i.imgur.com/31WaDNS.gif" />
+	<br></br>
+	<strong>The saved image from the game</strong>
+	<br></br>
+	<img src="https://i.imgur.com/VeRDsCg.png" />
+</p>
